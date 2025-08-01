@@ -20,3 +20,6 @@ A Mini Project as part of my academic curriculum, exploring practical applicatio
 📫 Let's connect:
 Feel free to check out my repositories and projects here on GitHub!
 
+![](https://github-readme-stats.vercel.app/api?username=Trishagoud06&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trishagoud06&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
